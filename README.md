@@ -9,4 +9,5 @@ https://youtu.be/fgTGADljAeg?si=gJA8cev1FO4mJCPF
 ```sh
 npm init
 npm i express mongoose dotenv nodemon
+npm run devStart
 ```

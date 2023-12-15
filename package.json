@@ -4,7 +4,7 @@
   "description": "Following a tutorial from WebDevSimplified on creating a MEN (MongoDB, Express, Node) REST API.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "nodemon server"
   },
   "author": "",
   "license": "ISC",
